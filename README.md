@@ -1,7 +1,7 @@
 ## Hello there! 👋  
 I'm 𝐄𝐫𝐟𝐚𝐧, a programmer who deeply searches within their thoughts for strange and unusual ideas.  
 
-⚙️ **Founder**: Passionate about server management and community-driven gameplay at [BSBOX](https://your-bsbox-link.com), powered by [Overclocked](https://your-overclocked-link.com).  
+⚙️ **Founder**: Passionate about server management and community-driven gameplay at [BSBOX](https://github.com/Erfan-0/bsbox), powered by [Overclocked](https://github.com/Over3dge/overclocked).  
 
 💻 **I focus on**: Python development, Linux environments, and creating unique experiences in [BombSquad](https://your-bombsquad-link.com).  
 
