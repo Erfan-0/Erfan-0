@@ -1,16 +1,23 @@
-## Hello there! 👋  
-I'm 𝐄𝐫𝐟𝐚𝐧, a programmer who deeply searches within their thoughts for strange and unusual ideas.  
+# Hey! I'm Erfan 👋
 
-⚙️ **Founder**: Passionate about server management and community-driven gameplay at [BSBOX](https://github.com/Erfan-0/bsbox), powered by [Overclocked](https://github.com/Over3dge/overclocked)
+Someone who believes they can create new things just by pressing a few keys
 
+### 💥 BombSquad / Ballistica
+- I run **BSBOX**, my little server from [Overclocked](https://github.com/Over3dge/overclocked)  
+- Tinker with plugins, test random ideas, and sometimes it actually works  
+- Always messing around and seeing what happens
+  
+### 🤖 Telegram Bots
+- Build Telegram bots for fun, small experiments, or automations  
+- Sometimes for sales, sometimes just because I can  
 
-💻 **I focus on**: Python development, Linux and creating unique experiences in [BombSquad](https://play.google.com/store/apps/details?id=net.froemling.bombsquad)/[Ballistica](https://github.com/efroemling/ballistica)
+### 🐧 Linux & Terminal
+- Love Linux, the terminal, and poking at stuff until it behaves  
+- Terminal = my happy place
 
+### ⚡ Random Experiments
+- Web scraping, tiny automation, small coding experiments  
+- Not everything works, and that's part of the fun for me
 
-🌍 **Passionate about**: Building community-driven projects and solving technical challenges.  
-
-
-🚀 **Currently working on**: Developing Telegram bots and experimenting with automation tools.  
-
-📍 **Find me at**:  
+📍 **Ping me at**:  
 - Telegram: [@E4001](https://t.me/E4001)
