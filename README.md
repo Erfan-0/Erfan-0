@@ -1,7 +1,5 @@
-# 👋 Hey there, I'm Erfan, Just a regular programmer.
-
+# 👋 Hey there, I'm Erfan
 ---
-
 ## 🚀 About Me
 - 💻 Mainly working with **Python** for my projects.  
 - 🤖 Developing **Telegram bots** and automation tools.  
@@ -22,9 +20,3 @@
 
 </p>
 
----
-
-## 🌍 Connect with Me
-<p>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
