@@ -24,13 +24,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 🔹 [**TBA**](https://github.com/Erfan-0)  
-- 🔹 [**TBA**](https://github.com/Erfan-0)  
-- 🔹 [**TBA**](https://github.com/Erfan-0) 
-  
----
-
 ## 🌍 Connect with Me
 <p>
   <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
