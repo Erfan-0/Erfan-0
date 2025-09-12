@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Erfan
-Just a regular programmer.
+
 ## 🚀 About Me
 - 💻 Mainly working with **Python** for my projects.  
 - 🤖 Developing **Telegram bots** and automation tools.  
